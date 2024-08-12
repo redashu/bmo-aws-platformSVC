@@ -33,4 +33,14 @@
 
 <img src="iam2.png">
 
+### upating group with existing user + resource using name and arn 
+
+<img src="cdk3.png">
+
+
+### deploy code with no rollback option 
+
+<img src="noroll.png">
+
+
 
