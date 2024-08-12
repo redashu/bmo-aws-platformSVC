@@ -35,7 +35,7 @@
 
 ### upating group with existing user + resource using name and arn 
 
-<img src="cdk3.png">
+<img src="iamcdkcode.png">
 
 
 ### deploy code with no rollback option 
