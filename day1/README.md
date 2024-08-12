@@ -12,3 +12,17 @@
 
 <img src="id2.png">
 
+## creating user in iam 
+
+<img src="id4.png">
+
+
+### creating cdk project with init 
+
+<img src="cdk1.png">
+
+### cdk + aws command 
+
+<img src="cdk2.png">
+
+
