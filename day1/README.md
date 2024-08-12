@@ -54,5 +54,9 @@
 
 <img src="role22.png">
 
+### creating a Trust relition policy to attache role to iam user
+
+<img src="rolepr.png">
+
 
 
