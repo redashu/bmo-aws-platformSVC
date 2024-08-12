@@ -46,4 +46,13 @@
 
 <img src="pol1.png">
 
+## Understanding roles in IAM 
+
+<img src="role11.png">
+
+### Creating role and attaching aws managed policy 
+
+<img src="role22.png">
+
+
 
