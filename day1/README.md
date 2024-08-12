@@ -25,4 +25,12 @@
 
 <img src="cdk2.png">
 
+## Now creating iam group using aws cdk typescript  -- synth 
+
+<img src="iam1.png">
+
+### creating deploy -- deploy 
+
+<img src="iam2.png">
+
 
