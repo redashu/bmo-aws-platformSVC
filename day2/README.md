@@ -28,6 +28,8 @@
 arn:aws:iam::992382386705:role/service-role/ashu-py-function-role-az2r2nx4
 ```
 
+### cdk for using existing role for lambda funcation creation 
 
+<img src="exRole.png">
 
 
