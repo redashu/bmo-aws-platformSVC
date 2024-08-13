@@ -14,3 +14,14 @@
 
 <img src="lam1.png">
 
+### Creating lambda function with 3 options 
+
+<img src="3.png">
+
+### cdk for creating lambda funcation 
+
+<img src="cdk1.png">
+
+
+
+
