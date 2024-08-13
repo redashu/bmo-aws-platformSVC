@@ -32,4 +32,13 @@ arn:aws:iam::992382386705:role/service-role/ashu-py-function-role-az2r2nx4
 
 <img src="exRole.png">
 
+### triggering lambda funcation on behalf of s3 upload event 
+
+<img src="s3up.png">
+
+### cdk code to create s3 bucket with lambda funcation 
+
+<img src="lam22.png">
+
+
 
