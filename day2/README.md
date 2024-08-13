@@ -54,4 +54,15 @@ arn:aws:iam::992382386705:role/service-role/ashu-py-function-role-az2r2nx4
 <img src="apig1.png">
 
 
+### a new directory for api-gw
+
+<img src="apigw11.png">
+
+### creating cdk 
+
+<img src="apicdknew.png">
+
+
+
+
 
