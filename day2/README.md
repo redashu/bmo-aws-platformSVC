@@ -45,4 +45,13 @@ arn:aws:iam::992382386705:role/service-role/ashu-py-function-role-az2r2nx4
 <img src="s3not.png">
 
 
+### understanding apigateway 
+
+<img src="apig.png">
+
+### more info 
+
+<img src="apig1.png">
+
+
 
