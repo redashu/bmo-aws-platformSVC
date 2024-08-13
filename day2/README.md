@@ -40,5 +40,9 @@ arn:aws:iam::992382386705:role/service-role/ashu-py-function-role-az2r2nx4
 
 <img src="lam22.png">
 
+### cdk with s3 notification 
+
+<img src="s3not.png">
+
 
 
