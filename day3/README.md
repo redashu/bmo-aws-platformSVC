@@ -35,6 +35,11 @@
 
 <img src="dbn.png">
 
+### to inset data in dynamodb table using CDK 
+
+<img src="cdki.png">
+
+
 
 
 
