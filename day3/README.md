@@ -7,3 +7,7 @@
 
 <img src="demo2.png">
 
+### lambda code with s3 trigger
+
+<img src="s3t.png">
+
