@@ -39,6 +39,9 @@
 
 <img src="cdki.png">
 
+### cdk typescript for dynamodb table 
+
+<img src="cdk2.png">
 
 
 
