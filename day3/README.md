@@ -11,3 +11,11 @@
 
 <img src="s3t.png">
 
+### Understanding apigw with python and db 
+
+<img src="apigw1.png">
+
+### cdk code 
+
+<img src="cdkc.png">
+
