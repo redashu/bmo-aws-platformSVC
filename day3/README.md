@@ -23,3 +23,19 @@
 
 <img src="finalc.png">
 
+## Introducing SQL vs NoSQL 
+
+<img src="sqlno.png">
+
+## partition approach for storing info which is auto managed by aws 
+
+<img src="aws1.png">
+
+### specific info about key value pair based nosql DB 
+
+<img src="dbn.png">
+
+
+
+
+
