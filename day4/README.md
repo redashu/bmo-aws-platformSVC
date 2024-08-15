@@ -48,5 +48,13 @@
 
 <img src="glue1.png">
 
+## aws glue understanding 
+
+<img src="glue2.png">
+
+### data pipline and crawler for glue 
+
+<img src="glue3.png">
+
 
 
