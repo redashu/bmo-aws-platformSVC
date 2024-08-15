@@ -11,3 +11,7 @@
 
 <img src="task11.png">
 
+### Write CDK for s3 uload based dynamodb table updates 
+
+- you have implemented it manually so write cdk code 
+
