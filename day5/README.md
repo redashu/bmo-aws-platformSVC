@@ -27,6 +27,11 @@
 
 <img src="q1.png">
 
+### create ETL job 
+
+<img src="etlj.png">
+
+
 
 
 
