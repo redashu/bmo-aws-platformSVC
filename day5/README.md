@@ -19,4 +19,14 @@
 
 <img src="athena.png">
 
+### More info about athena 
+
+<img src="ath1.png">
+
+### athena to use aws glue catalog table schema to run SQL like query 
+
+<img src="q1.png">
+
+
+
 
